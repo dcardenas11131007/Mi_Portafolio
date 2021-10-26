@@ -1,6 +1,6 @@
 ## Bienvenidos a mi Portafolio
 
-Mi nombre es Daniel Cárdenas, egresado de Administración de empresas de la Universidad de La Salle y futuro científico de datos, Durante el transcurso de la especialización en Analítica de Datos pude desempeñarme en trabajos que te pueden ayudar a ahorrar tiempo y darle valor a los datos de tu empresa.
+Mi nombre es Daniel Cárdenas, egresado de Administración de empresas de la Universidad de La Salle y futuro científico de datos, Durante el transcurso de la especialización en Analítica de Datos pude desempeñarme en trabajos que te pueden ayudar a ahorrar tiempo y darle valor a los datos de tu empresa. 
 
 Te invito a ver mi portafolio de poyectos.
 
@@ -42,10 +42,10 @@ Una forma de poder visualizar las palabras más representativas de tu negocio.
 
 ¿Alguna vez te has preguntado como visualizar la información de lo que habla la gente, de tu negocio en Twitter?, este notebook te muestra un ejemplo utilizando la herramienta de extracción de tuits de la API de Twitter y el procesamiento y visualización de la información.
 
-No solamente he realizado estos proyectos últimamente he abarcado el Web Scraping para la automatización de procesos en el lugar que trabajo. Si deseas ver más información de mis proyectos o experiencia te dejo mis datos.
 
 
 ### Contacto:
+Si deseas ver más información de mis proyectos o saber sobre mi experiencia te dejo mis datos.
 
 Dcardenas07@unisalle.edu.co
 
