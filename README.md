@@ -8,7 +8,7 @@ Te invito a ver mi portafolio de poyectos.
 
 ## [Adquisición de textos](https://github.com/dcardenas11131007/Procesamiento-del-lenguaje-natural/blob/main/Adquisici%C3%B3n_de_texto.ipynb)
 
-En este proyecto encontraras la forma en cómo se carga texto y se realizan un conteo por el número de palabras de cada uno de los archivos. 
+En este proyecto encontraras la forma en cómo se carga texto y se realiza un conteo por el número de palabras de cada uno de los archivos. 
 
 ## [Web Scraping](https://github.com/dcardenas11131007/Procesamiento-del-lenguaje-natural/blob/main/Web_Scraping.ipynb)
 
@@ -42,10 +42,10 @@ Una forma de poder visualizar las palabras más representativas de tu negocio.
 
 ¿Alguna vez te has preguntado como visualizar la información de lo que habla la gente, de tu negocio en Twitter?, este notebook te muestra un ejemplo utilizando la herramienta de extracción de tuits de la API de Twitter y el procesamiento y visualización de la información.
 
+No solamente he realizado estos proyectos ultimamente he abarcado el Web Scraping para la automatización de procesos en el lugar que trabajo. Si deseas ver mas información de mis poryectos o experencia te dejo mis datos.
+
 
 ### Contacto:
-
-Si deseas tener más información o simplemente dar algún comentario te dejo mis datos: 
 
 Dcardenas07@unisalle.edu.co
 
